@@ -1,0 +1,15 @@
+body{background-image: url("photo-1464618663641-bbdd760ae84a.jpg");}
+a:hover{
+    color: green;
+    background-color: red;
+}
+.Poem{
+    background-color: aqua;
+    text-align: center;
+}
+.interest{
+    background-color: aquamarine;
+}
+body{
+    font-family: sans-serif;
+}
